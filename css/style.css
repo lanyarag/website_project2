@@ -116,6 +116,11 @@ img {
     z-index: 10;
 }
 
+.hero.blog {
+    background: url('../images/image_resources/blog/blog3.jpg') no-repeat center center/cover;
+    height:30vh;
+}
+
 /* Icons */
 .icons {
     padding: 30px;
